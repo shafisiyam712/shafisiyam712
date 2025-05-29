@@ -1,6 +1,8 @@
 <img src="https://i.ibb.co/hRmVXkXC/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="Hi, I'm Shafiuddin Seyam" style="width:100%;"/>
 
-<h1>Hi 👋, I'm Shafiuddin Seyam</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shafiuddin+Seyam" alt="Hi 👋, I'm Shafiuddin Seyam" />
+</p>
 <p>A passionate BSc Engineering student in ICT at MBSTU, Bangladesh. I specialize in front-end development with a solid grasp of back-end technologies, aiming to grow as a full-stack developer. Proficient in C, C++, Java, and learning Python, I love solving problems and building efficient, user-friendly applications. Always exploring modern tools and frameworks to improve and innovate.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
