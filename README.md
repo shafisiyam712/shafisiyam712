@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/hRmVXkXC/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="Hi, I'm Shafiuddin Seyam" style="width:100%;"/>
+
 <h1>Hi 👋, I'm Shafiuddin Seyam</h1>
 <p>A passionate BSc Engineering student in ICT at MBSTU, Bangladesh. I specialize in front-end development with a solid grasp of back-end technologies, aiming to grow as a full-stack developer. Proficient in C, C++, Java, and learning Python, I love solving problems and building efficient, user-friendly applications. Always exploring modern tools and frameworks to improve and innovate.</p>
 <h2>🚀 Languages and Tools I Use</h2>
