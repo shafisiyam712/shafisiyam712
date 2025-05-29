@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/hRmVXkXC/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="Hi, I'm Shafiuddin Seyam" style="width:100%;"/>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=333333&center=false&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shafiuddin+Seyam" alt="Hi 👋, I'm Shafiuddin Seyam" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=false&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shafiuddin+Seyam" alt="Hi 👋, I'm Shafiuddin Seyam" />
 </p>
 
 
