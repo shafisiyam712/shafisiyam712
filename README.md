@@ -1,9 +1,11 @@
 <img src="https://i.ibb.co/hRmVXkXC/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="Hi, I'm Shafiuddin Seyam" style="width:100%;"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shafiuddin+Seyam" alt="Hi 👋, I'm Shafiuddin Seyam" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shafiuddin+Seyam" alt="Hi 👋, I'm Shafiuddin Seyam" />
 </p>
+
 <p>A passionate BSc Engineering student in ICT at MBSTU, Bangladesh. I specialize in front-end development with a solid grasp of back-end technologies, aiming to grow as a full-stack developer. Proficient in C, C++, Java, and learning Python, I love solving problems and building efficient, user-friendly applications. Always exploring modern tools and frameworks to improve and innovate.</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -20,9 +22,11 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/shafiuddin-seyam-87930b254/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/ShafiSiyam674" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafisiyam712&" alt="shafisiyam712" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafisiyam712&show_icons=true&locale=en&layout=compact" alt="shafisiyam712" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafisiyam712" alt="shafisiyam712" /></a></p>
