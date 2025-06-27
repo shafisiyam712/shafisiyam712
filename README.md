@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/hRmVXkXC/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" 
+  <img src="https://i.ibb.co/RphHYXvW/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" 
        alt="Hi, I'm Shafiuddin Seyam Banner" 
        style="max-width: 100%; height: auto; border-radius: 10px;" />
 </p>
